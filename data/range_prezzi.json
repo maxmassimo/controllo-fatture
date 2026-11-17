@@ -1,0 +1,2071 @@
+{
+  "frutti di": {
+    "um_principale": "N.",
+    "prezzo_min": 14.0,
+    "prezzo_max": 30.0,
+    "prezzo_medio_rilevato": 20.0,
+    "osservazioni": 3,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 14.0,
+        "prezzo_max": 30.0,
+        "prezzo_medio_rilevato": 20.0,
+        "osservazioni": 3
+      }
+    }
+  },
+  "prezzemolo cat": {
+    "um_principale": "N.",
+    "prezzo_min": 1.05,
+    "prezzo_max": 27.0,
+    "prezzo_medio_rilevato": 3.26,
+    "osservazioni": 10,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 12.6,
+        "prezzo_max": 27.0,
+        "prezzo_medio_rilevato": 18.0,
+        "osservazioni": 1
+      },
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 3.0,
+        "prezzo_medio_rilevato": 1.62,
+        "osservazioni": 9
+      }
+    }
+  },
+  "basilico imb": {
+    "um_principale": "N.",
+    "prezzo_min": 3.15,
+    "prezzo_max": 7.5,
+    "prezzo_medio_rilevato": 4.75,
+    "osservazioni": 2,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 3.15,
+        "prezzo_max": 7.5,
+        "prezzo_medio_rilevato": 4.75,
+        "osservazioni": 2
+      }
+    }
+  },
+  "avocados hass": {
+    "um_principale": "N.",
+    "prezzo_min": 11.9,
+    "prezzo_max": 25.5,
+    "prezzo_medio_rilevato": 17.0,
+    "osservazioni": 2,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 11.9,
+        "prezzo_max": 25.5,
+        "prezzo_medio_rilevato": 17.0,
+        "osservazioni": 2
+      }
+    }
+  },
+  "mango cat": {
+    "um_principale": "KG",
+    "prezzo_min": 2.1,
+    "prezzo_max": 5.7,
+    "prezzo_medio_rilevato": 3.4,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.1,
+        "prezzo_max": 5.7,
+        "prezzo_medio_rilevato": 3.4,
+        "osservazioni": 2
+      }
+    }
+  },
+  "banane chiquita": {
+    "um_principale": "N.",
+    "prezzo_min": 10.5,
+    "prezzo_max": 45.0,
+    "prezzo_medio_rilevato": 28.77,
+    "osservazioni": 13,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 10.5,
+        "prezzo_max": 45.0,
+        "prezzo_medio_rilevato": 28.77,
+        "osservazioni": 13
+      }
+    }
+  },
+  "castagne cat": {
+    "um_principale": "KG",
+    "prezzo_min": 2.31,
+    "prezzo_max": 6.6,
+    "prezzo_medio_rilevato": 3.86,
+    "osservazioni": 8,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.31,
+        "prezzo_max": 6.6,
+        "prezzo_medio_rilevato": 3.86,
+        "osservazioni": 8
+      }
+    }
+  },
+  "avocados cat": {
+    "um_principale": "N.",
+    "prezzo_min": 11.2,
+    "prezzo_max": 25.5,
+    "prezzo_medio_rilevato": 16.33,
+    "osservazioni": 3,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 11.2,
+        "prezzo_max": 25.5,
+        "prezzo_medio_rilevato": 16.33,
+        "osservazioni": 3
+      }
+    }
+  },
+  "mele golden": {
+    "um_principale": "KG",
+    "prezzo_min": 0.56,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.18,
+    "osservazioni": 13,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.56,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.18,
+        "osservazioni": 13
+      }
+    }
+  },
+  "lattuga brasiliana": {
+    "um_principale": "KG",
+    "prezzo_min": 1.05,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.5,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.5,
+        "osservazioni": 2
+      }
+    }
+  },
+  "broccoletti cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.91,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.49,
+    "osservazioni": 23,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.91,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.49,
+        "osservazioni": 23
+      }
+    }
+  },
+  "scarola riccia": {
+    "um_principale": "KG",
+    "prezzo_min": 0.52,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.27,
+    "osservazioni": 9,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.52,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.27,
+        "osservazioni": 9
+      }
+    }
+  },
+  "radicchio lungo": {
+    "um_principale": "KG",
+    "prezzo_min": 1.05,
+    "prezzo_max": 4.5,
+    "prezzo_medio_rilevato": 2.38,
+    "osservazioni": 4,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 4.5,
+        "prezzo_medio_rilevato": 2.38,
+        "osservazioni": 4
+      }
+    }
+  },
+  "zucchine bianche": {
+    "um_principale": "KG",
+    "prezzo_min": 0.35,
+    "prezzo_max": 1.65,
+    "prezzo_medio_rilevato": 0.93,
+    "osservazioni": 4,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.35,
+        "prezzo_max": 1.65,
+        "prezzo_medio_rilevato": 0.93,
+        "osservazioni": 4
+      }
+    }
+  },
+  "imb. cassa": {
+    "um_principale": "N.",
+    "prezzo_min": 1.81,
+    "prezzo_max": 3.9,
+    "prezzo_medio_rilevato": 2.58,
+    "osservazioni": 42,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 1.81,
+        "prezzo_max": 3.9,
+        "prezzo_medio_rilevato": 2.58,
+        "osservazioni": 42
+      }
+    }
+  },
+  "funghi pleos": {
+    "um_principale": "KG",
+    "prezzo_min": 1.33,
+    "prezzo_max": 5.7,
+    "prezzo_medio_rilevato": 2.85,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.33,
+        "prezzo_max": 5.7,
+        "prezzo_medio_rilevato": 2.85,
+        "osservazioni": 2
+      }
+    }
+  },
+  "uva bianca": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 5.1,
+    "prezzo_medio_rilevato": 2.06,
+    "osservazioni": 32,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 5.1,
+        "prezzo_medio_rilevato": 2.06,
+        "osservazioni": 32
+      }
+    }
+  },
+  "rucola cat": {
+    "um_principale": "N.",
+    "prezzo_min": 1.75,
+    "prezzo_max": 7.5,
+    "prezzo_medio_rilevato": 4.61,
+    "osservazioni": 9,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 1.75,
+        "prezzo_max": 7.5,
+        "prezzo_medio_rilevato": 4.61,
+        "osservazioni": 9
+      }
+    }
+  },
+  "pere abate": {
+    "um_principale": "KG",
+    "prezzo_min": 0.49,
+    "prezzo_max": 2.1,
+    "prezzo_medio_rilevato": 1.23,
+    "osservazioni": 14,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.49,
+        "prezzo_max": 2.1,
+        "prezzo_medio_rilevato": 1.23,
+        "osservazioni": 14
+      }
+    }
+  },
+  "mele fuji": {
+    "um_principale": "KG",
+    "prezzo_min": 0.52,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.23,
+    "osservazioni": 9,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.52,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.23,
+        "osservazioni": 9
+      }
+    }
+  },
+  "verze cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.35,
+    "prezzo_max": 1.5,
+    "prezzo_medio_rilevato": 0.91,
+    "osservazioni": 11,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.35,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 0.91,
+        "osservazioni": 11
+      }
+    }
+  },
+  "cavolfiori verdi": {
+    "um_principale": "KG",
+    "prezzo_min": 0.52,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.32,
+    "osservazioni": 8,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.52,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.32,
+        "osservazioni": 8
+      }
+    }
+  },
+  "mele royal": {
+    "um_principale": "KG",
+    "prezzo_min": 0.42,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.11,
+    "osservazioni": 8,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.42,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.11,
+        "osservazioni": 8
+      }
+    }
+  },
+  "finocchi cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.52,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.3,
+    "osservazioni": 18,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.52,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.3,
+        "osservazioni": 18
+      }
+    }
+  },
+  "pere conference": {
+    "um_principale": "KG",
+    "prezzo_min": 0.52,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.29,
+    "osservazioni": 10,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.52,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.29,
+        "osservazioni": 10
+      }
+    }
+  },
+  "carote sfuse": {
+    "um_principale": "KG",
+    "prezzo_min": 0.42,
+    "prezzo_max": 1.65,
+    "prezzo_medio_rilevato": 1.04,
+    "osservazioni": 10,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.42,
+        "prezzo_max": 1.65,
+        "prezzo_medio_rilevato": 1.04,
+        "osservazioni": 10
+      }
+    }
+  },
+  "limoni cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.42,
+    "prezzo_max": 2.1,
+    "prezzo_medio_rilevato": 1.05,
+    "osservazioni": 9,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.42,
+        "prezzo_max": 2.1,
+        "prezzo_medio_rilevato": 1.05,
+        "osservazioni": 9
+      }
+    }
+  },
+  "clementine foglia": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 3.0,
+    "prezzo_medio_rilevato": 1.86,
+    "osservazioni": 14,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 3.0,
+        "prezzo_medio_rilevato": 1.86,
+        "osservazioni": 14
+      }
+    }
+  },
+  "patate rosso": {
+    "um_principale": "KG",
+    "prezzo_min": 0.28,
+    "prezzo_max": 1.27,
+    "prezzo_medio_rilevato": 0.62,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.28,
+        "prezzo_max": 1.27,
+        "prezzo_medio_rilevato": 0.62,
+        "osservazioni": 2
+      }
+    }
+  },
+  "patate sfuse": {
+    "um_principale": "KG",
+    "prezzo_min": 0.26,
+    "prezzo_max": 1.2,
+    "prezzo_medio_rilevato": 0.72,
+    "osservazioni": 11,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.26,
+        "prezzo_max": 1.2,
+        "prezzo_medio_rilevato": 0.72,
+        "osservazioni": 11
+      }
+    }
+  },
+  "cipolle dorate": {
+    "um_principale": "KG",
+    "prezzo_min": 0.28,
+    "prezzo_max": 1.2,
+    "prezzo_medio_rilevato": 0.76,
+    "osservazioni": 10,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.28,
+        "prezzo_max": 1.2,
+        "prezzo_medio_rilevato": 0.76,
+        "osservazioni": 10
+      }
+    }
+  },
+  "uva fragola": {
+    "um_principale": "KG",
+    "prezzo_min": 1.22,
+    "prezzo_max": 5.25,
+    "prezzo_medio_rilevato": 2.62,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.22,
+        "prezzo_max": 5.25,
+        "prezzo_medio_rilevato": 2.62,
+        "osservazioni": 2
+      }
+    }
+  },
+  "peperoncino piccanti": {
+    "um_principale": "N.",
+    "prezzo_min": 1.75,
+    "prezzo_max": 7.5,
+    "prezzo_medio_rilevato": 4.17,
+    "osservazioni": 3,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 1.75,
+        "prezzo_max": 7.5,
+        "prezzo_medio_rilevato": 4.17,
+        "osservazioni": 3
+      }
+    }
+  },
+  "pomodori costoluto": {
+    "um_principale": "KG",
+    "prezzo_min": 1.05,
+    "prezzo_max": 4.5,
+    "prezzo_medio_rilevato": 2.75,
+    "osservazioni": 8,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 4.5,
+        "prezzo_medio_rilevato": 2.75,
+        "osservazioni": 8
+      }
+    }
+  },
+  "pomodori ciliegino": {
+    "um_principale": "KG",
+    "prezzo_min": 1.05,
+    "prezzo_max": 8.25,
+    "prezzo_medio_rilevato": 3.65,
+    "osservazioni": 17,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 8.25,
+        "prezzo_medio_rilevato": 3.65,
+        "osservazioni": 17
+      }
+    }
+  },
+  "zucchine verdi": {
+    "um_principale": "KG",
+    "prezzo_min": 0.49,
+    "prezzo_max": 2.1,
+    "prezzo_medio_rilevato": 1.3,
+    "osservazioni": 11,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.49,
+        "prezzo_max": 2.1,
+        "prezzo_medio_rilevato": 1.3,
+        "osservazioni": 11
+      }
+    }
+  },
+  "cetrioli cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.49,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.24,
+    "osservazioni": 5,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.49,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.24,
+        "osservazioni": 5
+      }
+    }
+  },
+  "imb. di": {
+    "um_principale": "N.",
+    "prezzo_min": 1.82,
+    "prezzo_max": 3.9,
+    "prezzo_medio_rilevato": 2.6,
+    "osservazioni": 21,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 1.82,
+        "prezzo_max": 3.9,
+        "prezzo_medio_rilevato": 2.6,
+        "osservazioni": 21
+      }
+    }
+  },
+  "melanzane tonda": {
+    "um_principale": "KG",
+    "prezzo_min": 0.77,
+    "prezzo_max": 2.1,
+    "prezzo_medio_rilevato": 1.3,
+    "osservazioni": 7,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.77,
+        "prezzo_max": 2.1,
+        "prezzo_medio_rilevato": 1.3,
+        "osservazioni": 7
+      }
+    }
+  },
+  "clementine nadorcott": {
+    "um_principale": "N.",
+    "prezzo_min": 1.12,
+    "prezzo_max": 27.0,
+    "prezzo_medio_rilevato": 8.24,
+    "osservazioni": 5,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 12.6,
+        "prezzo_max": 27.0,
+        "prezzo_medio_rilevato": 18.0,
+        "osservazioni": 2
+      },
+      "KG": {
+        "prezzo_min": 1.12,
+        "prezzo_max": 2.7,
+        "prezzo_medio_rilevato": 1.73,
+        "osservazioni": 3
+      }
+    }
+  },
+  "loti persimon": {
+    "um_principale": "KG",
+    "prezzo_min": 1.12,
+    "prezzo_max": 3.0,
+    "prezzo_medio_rilevato": 1.9,
+    "osservazioni": 4,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.12,
+        "prezzo_max": 3.0,
+        "prezzo_medio_rilevato": 1.9,
+        "osservazioni": 4
+      }
+    }
+  },
+  "cicoria cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.37,
+    "osservazioni": 13,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.37,
+        "osservazioni": 13
+      }
+    }
+  },
+  "kiwi cile": {
+    "um_principale": "N.",
+    "prezzo_min": 18.2,
+    "prezzo_max": 39.0,
+    "prezzo_medio_rilevato": 26.0,
+    "osservazioni": 3,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 18.2,
+        "prezzo_max": 39.0,
+        "prezzo_medio_rilevato": 26.0,
+        "osservazioni": 3
+      }
+    }
+  },
+  "peperone rosso": {
+    "um_principale": "KG",
+    "prezzo_min": 1.4,
+    "prezzo_max": 5.16,
+    "prezzo_medio_rilevato": 3.15,
+    "osservazioni": 21,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.4,
+        "prezzo_max": 5.16,
+        "prezzo_medio_rilevato": 3.15,
+        "osservazioni": 21
+      }
+    }
+  },
+  "arance sud": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 27.0,
+    "prezzo_medio_rilevato": 14.32,
+    "osservazioni": 11,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 1.0,
+        "osservazioni": 1
+      },
+      "N.": {
+        "prezzo_min": 8.75,
+        "prezzo_max": 27.0,
+        "prezzo_medio_rilevato": 15.65,
+        "osservazioni": 10
+      }
+    }
+  },
+  "bieta cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.77,
+    "prezzo_max": 2.1,
+    "prezzo_medio_rilevato": 1.28,
+    "osservazioni": 11,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.77,
+        "prezzo_max": 2.1,
+        "prezzo_medio_rilevato": 1.28,
+        "osservazioni": 11
+      }
+    }
+  },
+  "cavolfiori bianchi": {
+    "um_principale": "KG",
+    "prezzo_min": 0.91,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.42,
+    "osservazioni": 12,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.91,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.42,
+        "osservazioni": 12
+      }
+    }
+  },
+  "pere coscia": {
+    "um_principale": "KG",
+    "prezzo_min": 1.4,
+    "prezzo_max": 3.0,
+    "prezzo_medio_rilevato": 2.0,
+    "osservazioni": 6,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.4,
+        "prezzo_max": 3.0,
+        "prezzo_medio_rilevato": 2.0,
+        "osservazioni": 6
+      }
+    }
+  },
+  "canasta cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.84,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.47,
+    "osservazioni": 15,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.84,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.47,
+        "osservazioni": 15
+      }
+    }
+  },
+  "patate kg": {
+    "um_principale": "KG",
+    "prezzo_min": 0.49,
+    "prezzo_max": 1.05,
+    "prezzo_medio_rilevato": 0.7,
+    "osservazioni": 4,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.49,
+        "prezzo_max": 1.05,
+        "prezzo_medio_rilevato": 0.7,
+        "osservazioni": 4
+      }
+    }
+  },
+  "lattuga romana": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 1.95,
+    "prezzo_medio_rilevato": 1.22,
+    "osservazioni": 5,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 1.95,
+        "prezzo_medio_rilevato": 1.22,
+        "osservazioni": 5
+      }
+    }
+  },
+  "sedano cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.39,
+    "prezzo_max": 1.5,
+    "prezzo_medio_rilevato": 0.89,
+    "osservazioni": 17,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.39,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 0.89,
+        "osservazioni": 17
+      }
+    }
+  },
+  "patate cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.52,
+    "prezzo_max": 1.12,
+    "prezzo_medio_rilevato": 0.75,
+    "osservazioni": 5,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.52,
+        "prezzo_max": 1.12,
+        "prezzo_medio_rilevato": 0.75,
+        "osservazioni": 5
+      }
+    }
+  },
+  "loti maturi": {
+    "um_principale": "KG",
+    "prezzo_min": 1.12,
+    "prezzo_max": 2.4,
+    "prezzo_medio_rilevato": 1.6,
+    "osservazioni": 5,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.12,
+        "prezzo_max": 2.4,
+        "prezzo_medio_rilevato": 1.6,
+        "osservazioni": 5
+      }
+    }
+  },
+  "noci malizia": {
+    "um_principale": "KG",
+    "prezzo_min": 2.52,
+    "prezzo_max": 5.4,
+    "prezzo_medio_rilevato": 3.6,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.52,
+        "prezzo_max": 5.4,
+        "prezzo_medio_rilevato": 3.6,
+        "osservazioni": 2
+      }
+    }
+  },
+  "fagioli corallo": {
+    "um_principale": "KG",
+    "prezzo_min": 1.75,
+    "prezzo_max": 5.25,
+    "prezzo_medio_rilevato": 3.2,
+    "osservazioni": 5,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.75,
+        "prezzo_max": 5.25,
+        "prezzo_medio_rilevato": 3.2,
+        "osservazioni": 5
+      }
+    }
+  },
+  "pomodori giancala": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 1.5,
+    "prezzo_medio_rilevato": 1.0,
+    "osservazioni": 4,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 1.0,
+        "osservazioni": 4
+      }
+    }
+  },
+  "pomodori grappolo": {
+    "um_principale": "KG",
+    "prezzo_min": 1.05,
+    "prezzo_max": 4.05,
+    "prezzo_medio_rilevato": 2.53,
+    "osservazioni": 13,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 4.05,
+        "prezzo_medio_rilevato": 2.53,
+        "osservazioni": 13
+      }
+    }
+  },
+  "loti vaniglia": {
+    "um_principale": "KG",
+    "prezzo_min": 0.91,
+    "prezzo_max": 2.4,
+    "prezzo_medio_rilevato": 1.57,
+    "osservazioni": 15,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.91,
+        "prezzo_max": 2.4,
+        "prezzo_medio_rilevato": 1.57,
+        "osservazioni": 15
+      }
+    }
+  },
+  "pesche gialle": {
+    "um_principale": "KG",
+    "prezzo_min": 0.77,
+    "prezzo_max": 1.8,
+    "prezzo_medio_rilevato": 1.13,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.77,
+        "prezzo_max": 1.8,
+        "prezzo_medio_rilevato": 1.13,
+        "osservazioni": 3
+      }
+    }
+  },
+  "fagiolini cat": {
+    "um_principale": "KG",
+    "prezzo_min": 2.8,
+    "prezzo_max": 6.0,
+    "prezzo_medio_rilevato": 4.0,
+    "osservazioni": 4,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.8,
+        "prezzo_max": 6.0,
+        "prezzo_medio_rilevato": 4.0,
+        "osservazioni": 4
+      }
+    }
+  },
+  "melanzane viola": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 1.5,
+    "prezzo_medio_rilevato": 1.0,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 1.0,
+        "osservazioni": 3
+      }
+    }
+  },
+  "lattuga cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.84,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.39,
+    "osservazioni": 13,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.84,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.39,
+        "osservazioni": 13
+      }
+    }
+  },
+  "zucche cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.56,
+    "prezzo_max": 1.5,
+    "prezzo_medio_rilevato": 0.9,
+    "osservazioni": 7,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.56,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 0.9,
+        "osservazioni": 7
+      }
+    }
+  },
+  "cappuccina cat": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 2.7,
+    "prezzo_medio_rilevato": 1.35,
+    "osservazioni": 8,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 2.7,
+        "prezzo_medio_rilevato": 1.35,
+        "osservazioni": 8
+      }
+    }
+  },
+  "scarola larga": {
+    "um_principale": "KG",
+    "prezzo_min": 0.98,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.47,
+    "osservazioni": 6,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.98,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.47,
+        "osservazioni": 6
+      }
+    }
+  },
+  "broccoli siciliani": {
+    "um_principale": "KG",
+    "prezzo_min": 0.84,
+    "prezzo_max": 2.4,
+    "prezzo_medio_rilevato": 1.48,
+    "osservazioni": 6,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.84,
+        "prezzo_max": 2.4,
+        "prezzo_medio_rilevato": 1.48,
+        "osservazioni": 6
+      }
+    }
+  },
+  "melanzane striate": {
+    "um_principale": "KG",
+    "prezzo_min": 0.77,
+    "prezzo_max": 1.67,
+    "prezzo_medio_rilevato": 1.1,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.77,
+        "prezzo_max": 1.67,
+        "prezzo_medio_rilevato": 1.1,
+        "osservazioni": 2
+      }
+    }
+  },
+  "miagawa foglia": {
+    "um_principale": "KG",
+    "prezzo_min": 0.63,
+    "prezzo_max": 1.5,
+    "prezzo_medio_rilevato": 0.98,
+    "osservazioni": 6,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.63,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 0.98,
+        "osservazioni": 6
+      }
+    }
+  },
+  "mele annurca": {
+    "um_principale": "KG",
+    "prezzo_min": 0.77,
+    "prezzo_max": 2.7,
+    "prezzo_medio_rilevato": 1.47,
+    "osservazioni": 7,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.77,
+        "prezzo_max": 2.7,
+        "prezzo_medio_rilevato": 1.47,
+        "osservazioni": 7
+      }
+    }
+  },
+  "pere santa": {
+    "um_principale": "KG",
+    "prezzo_min": 0.84,
+    "prezzo_max": 1.95,
+    "prezzo_medio_rilevato": 1.25,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.84,
+        "prezzo_max": 1.95,
+        "prezzo_medio_rilevato": 1.25,
+        "osservazioni": 2
+      }
+    }
+  },
+  "mele granny": {
+    "um_principale": "KG",
+    "prezzo_min": 1.12,
+    "prezzo_max": 2.4,
+    "prezzo_medio_rilevato": 1.6,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.12,
+        "prezzo_max": 2.4,
+        "prezzo_medio_rilevato": 1.6,
+        "osservazioni": 3
+      }
+    }
+  },
+  "mele renetta": {
+    "um_principale": "KG",
+    "prezzo_min": 0.98,
+    "prezzo_max": 2.4,
+    "prezzo_medio_rilevato": 1.53,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.98,
+        "prezzo_max": 2.4,
+        "prezzo_medio_rilevato": 1.53,
+        "osservazioni": 3
+      }
+    }
+  },
+  "cipolle rosso": {
+    "um_principale": "KG",
+    "prezzo_min": 0.49,
+    "prezzo_max": 1.5,
+    "prezzo_medio_rilevato": 0.96,
+    "osservazioni": 7,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.49,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 0.96,
+        "osservazioni": 7
+      }
+    }
+  },
+  "pere william": {
+    "um_principale": "KG",
+    "prezzo_min": 0.98,
+    "prezzo_max": 2.1,
+    "prezzo_medio_rilevato": 1.4,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.98,
+        "prezzo_max": 2.1,
+        "prezzo_medio_rilevato": 1.4,
+        "osservazioni": 2
+      }
+    }
+  },
+  "ananas extra": {
+    "um_principale": "N.",
+    "prezzo_min": 10.5,
+    "prezzo_max": 24.0,
+    "prezzo_medio_rilevato": 15.67,
+    "osservazioni": 3,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 10.5,
+        "prezzo_max": 24.0,
+        "prezzo_medio_rilevato": 15.67,
+        "osservazioni": 3
+      }
+    }
+  },
+  "prugne nere": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 1.65,
+    "prezzo_medio_rilevato": 1.06,
+    "osservazioni": 5,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 1.65,
+        "prezzo_medio_rilevato": 1.06,
+        "osservazioni": 5
+      }
+    }
+  },
+  "uva italia": {
+    "um_principale": "KG",
+    "prezzo_min": 1.4,
+    "prezzo_max": 3.45,
+    "prezzo_medio_rilevato": 2.15,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.4,
+        "prezzo_max": 3.45,
+        "prezzo_medio_rilevato": 2.15,
+        "osservazioni": 2
+      }
+    }
+  },
+  "noci argentina": {
+    "um_principale": "KG",
+    "prezzo_min": 2.24,
+    "prezzo_max": 5.4,
+    "prezzo_medio_rilevato": 3.45,
+    "osservazioni": 4,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.24,
+        "prezzo_max": 5.4,
+        "prezzo_medio_rilevato": 3.45,
+        "osservazioni": 4
+      }
+    }
+  },
+  "basilico cat": {
+    "um_principale": "PZ",
+    "prezzo_min": 0.32,
+    "prezzo_max": 0.75,
+    "prezzo_medio_rilevato": 0.47,
+    "osservazioni": 2,
+    "per_um": {
+      "PZ": {
+        "prezzo_min": 0.32,
+        "prezzo_max": 0.75,
+        "prezzo_medio_rilevato": 0.47,
+        "osservazioni": 2
+      }
+    }
+  },
+  "banane cat": {
+    "um_principale": "N.",
+    "prezzo_min": 15.4,
+    "prezzo_max": 33.0,
+    "prezzo_medio_rilevato": 22.0,
+    "osservazioni": 2,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 15.4,
+        "prezzo_max": 33.0,
+        "prezzo_medio_rilevato": 22.0,
+        "osservazioni": 2
+      }
+    }
+  },
+  "pomodori tondo": {
+    "um_principale": "KG",
+    "prezzo_min": 1.05,
+    "prezzo_max": 3.75,
+    "prezzo_medio_rilevato": 2.17,
+    "osservazioni": 10,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 3.75,
+        "prezzo_medio_rilevato": 2.17,
+        "osservazioni": 10
+      }
+    }
+  },
+  "patate dolci": {
+    "um_principale": "KG",
+    "prezzo_min": 1.05,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.5,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.5,
+        "osservazioni": 2
+      }
+    }
+  },
+  "kiwi zespri": {
+    "um_principale": "N.",
+    "prezzo_min": 31.5,
+    "prezzo_max": 67.5,
+    "prezzo_medio_rilevato": 45.0,
+    "osservazioni": 4,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 31.5,
+        "prezzo_max": 67.5,
+        "prezzo_medio_rilevato": 45.0,
+        "osservazioni": 4
+      }
+    }
+  },
+  "pomodori datterino": {
+    "um_principale": "KG",
+    "prezzo_min": 2.8,
+    "prezzo_max": 6.0,
+    "prezzo_medio_rilevato": 4.0,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.8,
+        "prezzo_max": 6.0,
+        "prezzo_medio_rilevato": 4.0,
+        "osservazioni": 2
+      }
+    }
+  },
+  "iceberg cat": {
+    "um_principale": "N.",
+    "prezzo_min": 7.7,
+    "prezzo_max": 19.5,
+    "prezzo_medio_rilevato": 12.0,
+    "osservazioni": 3,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 7.7,
+        "prezzo_max": 19.5,
+        "prezzo_medio_rilevato": 12.0,
+        "osservazioni": 3
+      }
+    }
+  },
+  "mirtilli cat": {
+    "um_principale": "N.",
+    "prezzo_min": 14.0,
+    "prezzo_max": 30.0,
+    "prezzo_medio_rilevato": 20.0,
+    "osservazioni": 2,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 14.0,
+        "prezzo_max": 30.0,
+        "prezzo_medio_rilevato": 20.0,
+        "osservazioni": 2
+      }
+    }
+  },
+  "carote confezione": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 1.8,
+    "prezzo_medio_rilevato": 1.16,
+    "osservazioni": 8,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 1.8,
+        "prezzo_medio_rilevato": 1.16,
+        "osservazioni": 8
+      }
+    }
+  },
+  "fagioli cannellini": {
+    "um_principale": "KG",
+    "prezzo_min": 1.4,
+    "prezzo_max": 3.3,
+    "prezzo_medio_rilevato": 2.15,
+    "osservazioni": 4,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.4,
+        "prezzo_max": 3.0,
+        "prezzo_medio_rilevato": 2.0,
+        "osservazioni": 1
+      },
+      "PZ": {
+        "prezzo_min": 1.54,
+        "prezzo_max": 3.3,
+        "prezzo_medio_rilevato": 2.2,
+        "osservazioni": 3
+      }
+    }
+  },
+  "aglio cat": {
+    "um_principale": "KG",
+    "prezzo_min": 2.1,
+    "prezzo_max": 4.5,
+    "prezzo_medio_rilevato": 3.0,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.1,
+        "prezzo_max": 4.5,
+        "prezzo_medio_rilevato": 3.0,
+        "osservazioni": 2
+      }
+    }
+  },
+  "olio di": {
+    "um_principale": "PZ",
+    "prezzo_min": 1.12,
+    "prezzo_max": 2.4,
+    "prezzo_medio_rilevato": 1.6,
+    "osservazioni": 2,
+    "per_um": {
+      "PZ": {
+        "prezzo_min": 1.12,
+        "prezzo_max": 2.4,
+        "prezzo_medio_rilevato": 1.6,
+        "osservazioni": 2
+      }
+    }
+  },
+  "imb. sacchi": {
+    "um_principale": "N.",
+    "prezzo_min": 1.81,
+    "prezzo_max": 3.9,
+    "prezzo_medio_rilevato": 2.59,
+    "osservazioni": 2,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 1.81,
+        "prezzo_max": 3.9,
+        "prezzo_medio_rilevato": 2.59,
+        "osservazioni": 2
+      }
+    }
+  },
+  "banane di": {
+    "um_principale": "N.",
+    "prezzo_min": 13.3,
+    "prezzo_max": 33.0,
+    "prezzo_medio_rilevato": 21.25,
+    "osservazioni": 4,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 13.3,
+        "prezzo_max": 33.0,
+        "prezzo_medio_rilevato": 21.25,
+        "osservazioni": 4
+      }
+    }
+  },
+  "patate bologna": {
+    "um_principale": "KG",
+    "prezzo_min": 0.56,
+    "prezzo_max": 1.27,
+    "prezzo_medio_rilevato": 0.83,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.56,
+        "prezzo_max": 1.27,
+        "prezzo_medio_rilevato": 0.83,
+        "osservazioni": 3
+      }
+    }
+  },
+  "limoni foglia": {
+    "um_principale": "KG",
+    "prezzo_min": 0.91,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.4,
+    "osservazioni": 7,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.91,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.4,
+        "osservazioni": 7
+      }
+    }
+  },
+  "clementine cat": {
+    "um_principale": "KG",
+    "prezzo_min": 1.4,
+    "prezzo_max": 3.0,
+    "prezzo_medio_rilevato": 2.0,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.4,
+        "prezzo_max": 3.0,
+        "prezzo_medio_rilevato": 2.0,
+        "osservazioni": 3
+      }
+    }
+  },
+  "castagne piccole": {
+    "um_principale": "KG",
+    "prezzo_min": 2.45,
+    "prezzo_max": 6.45,
+    "prezzo_medio_rilevato": 3.9,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.45,
+        "prezzo_max": 6.45,
+        "prezzo_medio_rilevato": 3.9,
+        "osservazioni": 2
+      }
+    }
+  },
+  "funghi champignon": {
+    "um_principale": "KG",
+    "prezzo_min": 2.1,
+    "prezzo_max": 4.5,
+    "prezzo_medio_rilevato": 3.0,
+    "osservazioni": 11,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.1,
+        "prezzo_max": 4.5,
+        "prezzo_medio_rilevato": 3.0,
+        "osservazioni": 11
+      }
+    }
+  },
+  "meloni gialli": {
+    "um_principale": "KG",
+    "prezzo_min": 0.59,
+    "prezzo_max": 1.27,
+    "prezzo_medio_rilevato": 0.85,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.59,
+        "prezzo_max": 1.27,
+        "prezzo_medio_rilevato": 0.85,
+        "osservazioni": 2
+      }
+    }
+  },
+  "pere nashi": {
+    "um_principale": "KG",
+    "prezzo_min": 1.75,
+    "prezzo_max": 3.75,
+    "prezzo_medio_rilevato": 2.5,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.75,
+        "prezzo_max": 3.75,
+        "prezzo_medio_rilevato": 2.5,
+        "osservazioni": 2
+      }
+    }
+  },
+  "lenticchie pantelleria": {
+    "um_principale": "PZ",
+    "prezzo_min": 1.26,
+    "prezzo_max": 3.0,
+    "prezzo_medio_rilevato": 1.9,
+    "osservazioni": 2,
+    "per_um": {
+      "PZ": {
+        "prezzo_min": 1.26,
+        "prezzo_max": 3.0,
+        "prezzo_medio_rilevato": 1.9,
+        "osservazioni": 2
+      }
+    }
+  },
+  "melograni eg": {
+    "um_principale": "KG",
+    "prezzo_min": 1.05,
+    "prezzo_max": 2.25,
+    "prezzo_medio_rilevato": 1.5,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 2.25,
+        "prezzo_medio_rilevato": 1.5,
+        "osservazioni": 3
+      }
+    }
+  },
+  "mele melinda": {
+    "um_principale": "KG",
+    "prezzo_min": 0.91,
+    "prezzo_max": 2.55,
+    "prezzo_medio_rilevato": 1.57,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.91,
+        "prezzo_max": 2.55,
+        "prezzo_medio_rilevato": 1.57,
+        "osservazioni": 3
+      }
+    }
+  },
+  "zucche delica": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 1.5,
+    "prezzo_medio_rilevato": 1.0,
+    "osservazioni": 2,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 1.0,
+        "osservazioni": 2
+      }
+    }
+  },
+  "banana chiquita": {
+    "um_principale": "N.",
+    "prezzo_min": 19.25,
+    "prezzo_max": 45.0,
+    "prezzo_medio_rilevato": 29.57,
+    "osservazioni": 7,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 19.25,
+        "prezzo_max": 45.0,
+        "prezzo_medio_rilevato": 29.57,
+        "osservazioni": 7
+      }
+    }
+  },
+  "cavolfiori bianco": {
+    "um_principale": "KG",
+    "prezzo_min": 0.77,
+    "prezzo_max": 1.95,
+    "prezzo_medio_rilevato": 1.21,
+    "osservazioni": 7,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.77,
+        "prezzo_max": 1.95,
+        "prezzo_medio_rilevato": 1.21,
+        "osservazioni": 7
+      }
+    }
+  },
+  "cavolfiori verde": {
+    "um_principale": "KG",
+    "prezzo_min": 0.98,
+    "prezzo_max": 2.1,
+    "prezzo_medio_rilevato": 1.4,
+    "osservazioni": 4,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.98,
+        "prezzo_max": 2.1,
+        "prezzo_medio_rilevato": 1.4,
+        "osservazioni": 4
+      }
+    }
+  },
+  "foglia di": {
+    "um_principale": "N.",
+    "prezzo_min": 2.1,
+    "prezzo_max": 4.5,
+    "prezzo_medio_rilevato": 3.0,
+    "osservazioni": 2,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 2.1,
+        "prezzo_max": 4.5,
+        "prezzo_medio_rilevato": 3.0,
+        "osservazioni": 2
+      }
+    }
+  },
+  "zucchine verde": {
+    "um_principale": "KG",
+    "prezzo_min": 0.77,
+    "prezzo_max": 2.1,
+    "prezzo_medio_rilevato": 1.37,
+    "osservazioni": 9,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.77,
+        "prezzo_max": 2.1,
+        "prezzo_medio_rilevato": 1.37,
+        "osservazioni": 9
+      }
+    }
+  },
+  "melanzana viola": {
+    "um_principale": "KG",
+    "prezzo_min": 0.7,
+    "prezzo_max": 1.5,
+    "prezzo_medio_rilevato": 1.0,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.7,
+        "prezzo_max": 1.5,
+        "prezzo_medio_rilevato": 1.0,
+        "osservazioni": 3
+      }
+    }
+  },
+  "melanzana tonda": {
+    "um_principale": "KG",
+    "prezzo_min": 0.49,
+    "prezzo_max": 2.1,
+    "prezzo_medio_rilevato": 1.26,
+    "osservazioni": 7,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.49,
+        "prezzo_max": 2.1,
+        "prezzo_medio_rilevato": 1.26,
+        "osservazioni": 7
+      }
+    }
+  },
+  "banana di": {
+    "um_principale": "N.",
+    "prezzo_min": 13.3,
+    "prezzo_max": 33.0,
+    "prezzo_medio_rilevato": 21.0,
+    "osservazioni": 3,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 13.3,
+        "prezzo_max": 33.0,
+        "prezzo_medio_rilevato": 21.0,
+        "osservazioni": 3
+      }
+    }
+  },
+  "melone gialli": {
+    "um_principale": "KG",
+    "prezzo_min": 0.56,
+    "prezzo_max": 1.35,
+    "prezzo_medio_rilevato": 0.85,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.56,
+        "prezzo_max": 1.35,
+        "prezzo_medio_rilevato": 0.85,
+        "osservazioni": 3
+      }
+    }
+  },
+  "peperone cornetti": {
+    "um_principale": "KG",
+    "prezzo_min": 1.05,
+    "prezzo_max": 4.5,
+    "prezzo_medio_rilevato": 2.5,
+    "osservazioni": 3,
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.05,
+        "prezzo_max": 4.5,
+        "prezzo_medio_rilevato": 2.5,
+        "osservazioni": 3
+      }
+    }
+  },
+  "mandarini cat": {
+    "um_principale": "N.",
+    "prezzo_min": 11.9,
+    "prezzo_max": 27.0,
+    "prezzo_medio_rilevato": 17.33,
+    "osservazioni": 3,
+    "per_um": {
+      "N.": {
+        "prezzo_min": 11.9,
+        "prezzo_max": 27.0,
+        "prezzo_medio_rilevato": 17.33,
+        "osservazioni": 3
+      }
+    }
+  },
+  "sakura mix": {
+    "per_um": {
+      "N.": {
+        "prezzo_min": 16.1,
+        "prezzo_max": 34.5,
+        "prezzo_medio_rilevato": 23.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "frigiarello cat": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.26,
+        "prezzo_max": 2.7,
+        "prezzo_medio_rilevato": 1.8,
+        "osservazioni": 1
+      }
+    }
+  },
+  "prugne bianche": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.49,
+        "prezzo_max": 1.05,
+        "prezzo_medio_rilevato": 0.7,
+        "osservazioni": 1
+      }
+    }
+  },
+  "peperone gialli": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.4,
+        "prezzo_max": 3.0,
+        "prezzo_medio_rilevato": 2.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "pere kaiser": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.12,
+        "prezzo_max": 2.4,
+        "prezzo_medio_rilevato": 1.6,
+        "osservazioni": 1
+      }
+    }
+  },
+  "noci kg": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.52,
+        "prezzo_max": 5.4,
+        "prezzo_medio_rilevato": 3.6,
+        "osservazioni": 1
+      }
+    }
+  },
+  "banane bonita": {
+    "per_um": {
+      "N.": {
+        "prezzo_min": 15.4,
+        "prezzo_max": 33.0,
+        "prezzo_medio_rilevato": 22.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "zucchette ornamentali": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.75,
+        "prezzo_max": 3.75,
+        "prezzo_medio_rilevato": 2.5,
+        "osservazioni": 1
+      }
+    }
+  },
+  "pesche sciroppate": {
+    "per_um": {
+      "PZ": {
+        "prezzo_min": 1.15,
+        "prezzo_max": 2.47,
+        "prezzo_medio_rilevato": 1.65,
+        "osservazioni": 1
+      }
+    }
+  },
+  "olive denocciolate": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 4.2,
+        "prezzo_max": 9.0,
+        "prezzo_medio_rilevato": 6.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "aglio fresco": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.1,
+        "prezzo_max": 4.5,
+        "prezzo_medio_rilevato": 3.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "scalogno cat": {
+    "per_um": {
+      "N.": {
+        "prezzo_min": 7.0,
+        "prezzo_max": 15.0,
+        "prezzo_medio_rilevato": 10.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "nocciole tostati": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 11.2,
+        "prezzo_max": 24.0,
+        "prezzo_medio_rilevato": 16.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "aglione cat": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 3.5,
+        "prezzo_max": 7.5,
+        "prezzo_medio_rilevato": 5.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "ceci kg": {
+    "per_um": {
+      "PZ": {
+        "prezzo_min": 1.54,
+        "prezzo_max": 3.3,
+        "prezzo_medio_rilevato": 2.2,
+        "osservazioni": 1
+      }
+    }
+  },
+  "melanzane lunghe": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.49,
+        "prezzo_max": 1.05,
+        "prezzo_medio_rilevato": 0.7,
+        "osservazioni": 1
+      }
+    }
+  },
+  "kiwi cat": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.77,
+        "prezzo_max": 1.65,
+        "prezzo_medio_rilevato": 1.1,
+        "osservazioni": 1
+      }
+    }
+  },
+  "fichi d’india": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.75,
+        "prezzo_max": 3.75,
+        "prezzo_medio_rilevato": 2.5,
+        "osservazioni": 1
+      }
+    }
+  },
+  "clementine": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.19,
+        "prezzo_max": 2.55,
+        "prezzo_medio_rilevato": 1.7,
+        "osservazioni": 1
+      }
+    }
+  },
+  "olive colossal": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 3.15,
+        "prezzo_max": 6.75,
+        "prezzo_medio_rilevato": 4.5,
+        "osservazioni": 1
+      }
+    }
+  },
+  "noci sgusciate": {
+    "per_um": {
+      "PZ": {
+        "prezzo_min": 3.85,
+        "prezzo_max": 8.25,
+        "prezzo_medio_rilevato": 5.5,
+        "osservazioni": 1
+      }
+    }
+  },
+  "patate italia": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.52,
+        "prezzo_max": 1.12,
+        "prezzo_medio_rilevato": 0.75,
+        "osservazioni": 1
+      }
+    }
+  },
+  "fagioli borlotti": {
+    "per_um": {
+      "PZ": {
+        "prezzo_min": 1.61,
+        "prezzo_max": 3.45,
+        "prezzo_medio_rilevato": 2.3,
+        "osservazioni": 1
+      }
+    }
+  },
+  "rape rosso": {
+    "per_um": {
+      "N.": {
+        "prezzo_min": 4.2,
+        "prezzo_max": 9.0,
+        "prezzo_medio_rilevato": 6.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "melanzana striate": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.77,
+        "prezzo_max": 1.65,
+        "prezzo_medio_rilevato": 1.1,
+        "osservazioni": 1
+      }
+    }
+  },
+  "crauti rosso": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.84,
+        "prezzo_max": 1.8,
+        "prezzo_medio_rilevato": 1.2,
+        "osservazioni": 1
+      }
+    }
+  },
+  "olive nostrane": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 3.5,
+        "prezzo_max": 7.5,
+        "prezzo_medio_rilevato": 5.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "fagioli tondini": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.4,
+        "prezzo_max": 3.0,
+        "prezzo_medio_rilevato": 2.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "melone verde": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.56,
+        "prezzo_max": 1.2,
+        "prezzo_medio_rilevato": 0.8,
+        "osservazioni": 1
+      }
+    }
+  },
+  "mele ambrosia": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 1.12,
+        "prezzo_max": 2.4,
+        "prezzo_medio_rilevato": 1.6,
+        "osservazioni": 1
+      }
+    }
+  },
+  "pomodori camone": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 2.1,
+        "prezzo_max": 4.5,
+        "prezzo_medio_rilevato": 3.0,
+        "osservazioni": 1
+      }
+    }
+  },
+  "cipolle bianco": {
+    "per_um": {
+      "KG": {
+        "prezzo_min": 0.63,
+        "prezzo_max": 1.35,
+        "prezzo_medio_rilevato": 0.9,
+        "osservazioni": 1
+      }
+    }
+  }
+}
